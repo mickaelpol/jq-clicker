@@ -12,4 +12,4 @@ N'oubliez pas de lancer `caddy` dans le dossier.
 ## Bonus
 - Tous les 20 click, demandez à l'utilisateur de trouver une activité plus productive via un `alert`
 - Un message différent tous les 20 clicks
-- Un message aléatoire parmi une liste de messages
+- Un message aléatoire parmi une liste de messages# quattre_quart_clicker
